@@ -55,7 +55,7 @@ task4.displayTask();
 task5.displayTask();
 
 
-console.log("\n----------> DELETING A TASKS WHICH IS COMPLATED\n");
+// console.log("\n----------> DELETING A TASKS WHICH IS COMPLATED\n");
 
 // deleting the tasks which is completed
 
